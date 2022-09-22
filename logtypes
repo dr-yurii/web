@@ -1,5 +1,5 @@
     SYSTEM_BOOT                             = 900     ##   Web Portal Alert
-	OC_BOOT                                 = 1000    ##   Web Portal Alert
+    OC_BOOT                                 = 1000    ##   Web Portal Alert
     BASE_MSG                                = 1001    ##   Web Portal Alert
     FTP_LOGIN_ATTEMPT                       = 2000    ##   Email notification to customer
     HTTP_POST_LOGIN_ATTEMPT                 = 3001    ##   Email notification to customer
